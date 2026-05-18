@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Input/output data (screenshots e report)
+input/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
